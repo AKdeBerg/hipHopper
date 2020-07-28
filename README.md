@@ -29,4 +29,4 @@ Key topics-
 ## Disclaimer
 + I didn't made this sound myself as I am not a producer. They are open source sounds from internet. Can't be used for commercial purpose.
 + The images are from Unsplash & rights belong to the respective artist.
-+ This is greatly inspired by Wes Bos 30 days JavaScript course. Awesome Course! Couldn't recommend it more. https://javascript30.com/
++ This is project is part of javascript challenge by Wes Bos namely JavaScript30. Awesome Challenge! Couldn't recommend it more. https://javascript30.com/
