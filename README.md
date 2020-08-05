@@ -19,7 +19,7 @@ This is how the app looks like-
 Just press the letters shown as button, it will play the corresponding sounds. Play with the combinations for a while to be a pro MC😋
 
 ## Tech I Used
-This app is purely made with vanilla JavaScript & raw HTML/CSS. It is to demonstrate, ff you can be creative you can make something amazing out of those core technologies.
+This app is purely made with vanilla JavaScript & raw HTML/CSS. It is to demonstrate, if you can be creative you can make something amazing out of those core technologies.
 
 Key topics-
 + **HTML:** I used custom data- attribute & audio tag
